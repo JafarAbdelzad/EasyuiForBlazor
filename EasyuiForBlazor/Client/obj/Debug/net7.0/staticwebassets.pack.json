@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\HkEnjnlm.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EasyuiForBlazor.Client.styles.css",
+      "PackagePath": "staticwebassets\\EasyuiForBlazor.Client.styles.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\datagrid-dnd.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\datagrid-dnd.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\datagrid-filter.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\datagrid-filter.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\demo.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\demo.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\easyui-rtl.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\easyui-rtl.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\.DS_Store"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\backcolor.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\backcolor.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\bold.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\bold.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\forecolor.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\forecolor.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\image.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\image.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\indent.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\indent.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\insertorderedlist.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\insertorderedlist.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\insertunorderedlist.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\insertunorderedlist.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\italic.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\italic.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\justifycenter.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\justifycenter.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\justifyfull.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\justifyfull.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\justifyleft.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\justifyleft.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\justifyright.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\justifyright.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\link.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\link.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\outdent.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\outdent.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\strikethrough.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\strikethrough.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\images\\underline.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\images\\underline.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\jquery-1.8.0.min.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\jquery-1.8.0.min.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\jquery.easyui.min.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\jquery.easyui.min.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\jquery.texteditor.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\jquery.texteditor.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\texteditor.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\texteditor.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\accordion.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\accordion.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\calendar.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\calendar.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\combo.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\combo.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\combobox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\combobox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\datagrid.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\datagrid.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\datalist.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\datalist.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\datebox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\datebox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\dialog.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\dialog.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\easyui.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\easyui.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\filebox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\filebox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\accordion_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\accordion_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\blank.gif"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\calendar_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\calendar_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\combo_arrow.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\combo_arrow.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\datagrid_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\datagrid_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\datebox_arrow.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\datebox_arrow.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\layout_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\layout_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\linkbutton_bg.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\linkbutton_bg.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\menu_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\menu_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\messager_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\messager_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\pagination_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\pagination_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\panel_tools.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\panel_tools.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\passwordbox_close.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\passwordbox_close.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\passwordbox_open.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\passwordbox_open.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\searchbox_button.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\searchbox_button.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\slider_handle.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\slider_handle.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\spinner_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\spinner_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\tabs_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\tabs_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\tagbox_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\tagbox_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\tree_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\tree_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\images\\validatebox_warning.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\images\\validatebox_warning.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\layout.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\layout.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\linkbutton.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\linkbutton.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\menu.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\menu.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\menubutton.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\menubutton.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\messager.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\messager.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\numberbox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\numberbox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\pagination.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\pagination.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\panel.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\panel.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\passwordbox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\passwordbox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\progressbar.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\progressbar.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\propertygrid.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\propertygrid.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\searchbox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\searchbox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\slider.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\slider.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\spinner.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\spinner.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\splitbutton.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\splitbutton.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\switchbutton.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\switchbutton.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\tabs.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\tabs.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\tagbox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\tagbox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\textbox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\textbox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\tooltip.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\tooltip.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\tree.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\tree.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\validatebox.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\validatebox.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\default\\window.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\default\\window.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\easyui.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\easyui.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icon.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icon.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\back.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\back.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\blank.gif",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\blank.gif"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\cancel.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\cancel.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\clear.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\clear.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\cut.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\cut.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\edit_add.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\edit_add.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\edit_remove.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\edit_remove.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\filesave.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\filesave.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\filter.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\filter.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\help.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\help.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\large_chart.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\large_chart.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\large_clipart.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\large_clipart.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\large_picture.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\large_picture.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\large_shapes.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\large_shapes.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\large_smartart.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\large_smartart.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\lock.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\lock.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\man.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\man.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\mini_add.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\mini_add.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\mini_edit.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\mini_edit.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\mini_refresh.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\mini_refresh.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\more.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\more.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\no.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\no.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\ok.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\ok.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\pencil.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\pencil.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\print.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\print.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\redo.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\redo.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\reload.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\reload.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\search.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\search.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\sign-out.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\sign-out.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\sum.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\sum.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\tip.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\tip.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\icons\\undo.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\icons\\undo.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\Thumbs.db"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\accordion_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\accordion_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\blank.gif",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\blank.gif"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\calendar_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\calendar_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\combo_arrow.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\combo_arrow.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\datagrid_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\datagrid_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\datebox_arrow.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\datebox_arrow.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\layout_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\layout_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\linkbutton_bg.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\linkbutton_bg.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\menu_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\menu_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\messager_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\messager_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\pagination_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\pagination_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\panel_tools.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\panel_tools.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\passwordbox_close.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\passwordbox_close.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\passwordbox_open.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\passwordbox_open.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\searchbox_button.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\searchbox_button.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\slider_handle.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\slider_handle.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\spinner_arrows.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\spinner_arrows.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\tabs_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\tabs_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\tagbox_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\tagbox_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\tree_icons.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\tree_icons.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\themes\\images\\validatebox_warning.png",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\themes\\images\\validatebox_warning.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\treegrid-dnd.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\treegrid-dnd.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\treegrid_data1.json",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\treegrid_data1.json"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\ui-rtl\\content.html",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\ui-rtl\\content.html"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\ui-rtl\\datagrid_data1.json",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\ui-rtl\\datagrid_data1.json"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\ui-rtl\\easyui-rtl.css",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\ui-rtl\\easyui-rtl.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\ui-rtl\\easyui-rtl.js",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\ui-rtl\\easyui-rtl.js"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\ui-rtl\\rtl.html",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\ui-rtl\\rtl.html"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\Lib\\jqueryui\\ui-rtl\\tree_data1.json",
+      "PackagePath": "staticwebassets\\Lib\\jqueryui\\ui-rtl\\tree_data1.json"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\datagrid_data1.json",
+      "PackagePath": "staticwebassets\\datagrid_data1.json"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Blazor_projects\\EasyuiForBlazor\\EasyuiForBlazor\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EasyuiForBlazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EasyuiForBlazor.Client.props",
+      "PackagePath": "build\\EasyuiForBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EasyuiForBlazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\EasyuiForBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EasyuiForBlazor.Client.props",
+      "PackagePath": "buildTransitive\\EasyuiForBlazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

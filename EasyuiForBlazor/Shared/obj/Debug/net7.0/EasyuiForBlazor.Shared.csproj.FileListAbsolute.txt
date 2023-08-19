@@ -1,0 +1,12 @@
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\bin\Debug\net7.0\EasyuiForBlazor.Shared.deps.json
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\bin\Debug\net7.0\EasyuiForBlazor.Shared.dll
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\bin\Debug\net7.0\EasyuiForBlazor.Shared.pdb
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\EasyuiForBlazor.Shared.csproj.AssemblyReference.cache
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\EasyuiForBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\EasyuiForBlazor.Shared.AssemblyInfoInputs.cache
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\EasyuiForBlazor.Shared.AssemblyInfo.cs
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\EasyuiForBlazor.Shared.csproj.CoreCompileInputs.cache
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\EasyuiForBlazor.Shared.dll
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\refint\EasyuiForBlazor.Shared.dll
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\EasyuiForBlazor.Shared.pdb
+E:\Blazor_projects\EasyuiForBlazor\EasyuiForBlazor\Shared\obj\Debug\net7.0\ref\EasyuiForBlazor.Shared.dll
